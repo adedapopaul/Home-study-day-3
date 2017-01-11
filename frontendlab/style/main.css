@@ -21,13 +21,18 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-
+/*
+  ========================================
+  Navigation
+  ========================================
+*/
 
 .nav {
     background: #232323;
     height: 70px;
     display: inline-block;
     width: 100%;
+    text-align: right;
 }
  
 .nav li {
@@ -96,8 +101,8 @@ time, mark, audio, video {
     background: rgb(64, 151, 119);
 }
 #search_button {
-    border: 0 none;
-    background: #1f7f5c url(search.png) center no-repeat;
+    border: 2px;
+    background: #566573   url(image/search.png) center no-repeat;
     width: 60px;
     float: left;
     padding: 0;
@@ -329,6 +334,7 @@ p a {
 */
 
 .foot {
+  text-align: center;
   color: #648880;
   font-size: 14px;
   padding-bottom: 44px;
@@ -339,15 +345,6 @@ p a {
   font-weight: 400;
 }
 
-/*
-  ========================================
-  Navigation
-  ========================================
-*/
-
-.nav {
-  text-align: right;
-}
 
 /*
   ========================================
