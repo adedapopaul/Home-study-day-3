@@ -1,0 +1,14 @@
+{
+  "name": "home-study-day-3",
+  "version": "1.0.0",
+  "description": "Andela Home study session Day 3",
+  "main": "",
+  "scripts": {
+    "test": "jasmime tests.js"
+  },
+  "author": "Dapo Aderemi",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
